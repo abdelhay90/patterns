@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d4cafb7-cdde-4f45-8b06-3b01c1d41d85" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Formatter/Formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Formatter/OutputFormatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Formatter/PlainTextFormatter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Customer/Customer.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Customer/Customer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Rental/Rental.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Rental/Rental.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Vehicle/FourxFour.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Vehicle/FourxFour.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Vehicle/SUV.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Vehicle/SUV.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Vehicle/Sedan.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Vehicle/Sedan.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Vehicle/Vehicle.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Vehicle/Vehicle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/BillingTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/BillingTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/CharacterizationTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/CharacterizationTest.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,11 +22,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Customer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Customer/Customer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterizationTest.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/CharacterizationTest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutputFormatter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Formatter/OutputFormatter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONFormatter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlainTextFormatter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Formatter/PlainTextFormatter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BillingTests.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/BillingTests.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="21" column="81" selection-start-line="21" selection-start-column="81" selection-end-line="21" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Formatter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Formatter/Formatter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -73,9 +134,7 @@
         <option value="$PROJECT_DIR$/app/Models/FourxFour.js" />
         <option value="$PROJECT_DIR$/app/Models/Sedan.js" />
         <option value="$PROJECT_DIR$/app/Models/Vehicle/VehicleFactory.js" />
-        <option value="$PROJECT_DIR$/test/CharacterizationTest.js" />
         <option value="$PROJECT_DIR$/app/Models/Customer.js" />
-        <option value="$PROJECT_DIR$/test/BillingTests.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/INDEX.JS" />
         <option value="$PROJECT_DIR$/app/Models/Customer/RentalCalculator.js" />
@@ -88,6 +147,12 @@
         <option value="$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js" />
         <option value="$PROJECT_DIR$/app/Models/Vehicle/Sedan.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/Models/Formatter/OutputFormatter.js" />
+        <option value="$PROJECT_DIR$/app/Models/Formatter/Formatter.js" />
+        <option value="$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js" />
+        <option value="$PROJECT_DIR$/app/Models/Formatter/PlainTextFormatter.js" />
+        <option value="$PROJECT_DIR$/test/CharacterizationTest.js" />
+        <option value="$PROJECT_DIR$/test/BillingTests.js" />
       </list>
     </option>
   </component>
@@ -141,21 +206,7 @@
               <item name="Car_Rental_Billing_JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="Models" type="462c0819:PsiDirectoryNode" />
-              <item name="Customer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Car_Rental_Billing_JavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Car_Rental_Billing_JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-              <item name="Rental" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Car_Rental_Billing_JavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Car_Rental_Billing_JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-              <item name="Vehicle" type="462c0819:PsiDirectoryNode" />
+              <item name="Formatter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Car_Rental_Billing_JavaScript" type="b2602c69:ProjectViewProjectNode" />
@@ -230,7 +281,7 @@
       <option name="presentableId" value="Default" />
       <updated>1527947015098</updated>
       <workItem from="1527947016548" duration="6671000" />
-      <workItem from="1528285128217" duration="8182000" />
+      <workItem from="1528285128217" duration="10741000" />
     </task>
     <servers />
   </component>
@@ -267,13 +318,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14853000" />
+    <option name="totallyTimeSpent" value="17412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -282,7 +333,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4985955" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -293,6 +344,27 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3988764" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5772472" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -305,7 +377,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test/CharacterizationTest.js</url>
-          <line>32</line>
+          <line>31</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
@@ -474,31 +546,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/BillingTests.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Customer/Customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Formatter/Formatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Formatter/PlainTextFormatter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Formatter/OutputFormatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/CharacterizationTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Customer/Customer.js">
+    <entry file="file://$PROJECT_DIR$/test/BillingTests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="129">
+          <caret line="21" column="81" selection-start-line="21" selection-start-column="81" selection-end-line="21" selection-end-column="81" />
         </state>
       </provider>
     </entry>

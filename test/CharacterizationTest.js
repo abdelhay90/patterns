@@ -1,5 +1,4 @@
 const assert = require('chai').assert;
-const Vehicle = require("../app/Models/Vehicle/Vehicle.js");
 const Rental = require("../app/Models/Rental/Rental.js");
 const Customer = require("../app/Models/Customer/Customer.js");
 const VehicleFactory = require('../app/Models/Vehicle/VehicleFactory');
