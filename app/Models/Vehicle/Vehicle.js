@@ -15,6 +15,10 @@ class Vehicle {
     getMakeAndModel() {
         return this._makeAndModel;
     }
+
+    calculateRentalFees(options){
+        return options.initialAmount;
+    }
 }
 module.exports = Vehicle;
 

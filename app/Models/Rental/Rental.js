@@ -23,9 +23,6 @@ class Rental {
         return this._lateFee;
     }
 
-    calculate(){
-
-    }
 }
 
 module.exports = Rental;

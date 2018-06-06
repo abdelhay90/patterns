@@ -4,318 +4,13 @@
     <list default="true" id="4d4cafb7-cdde-4f45-8b06-3b01c1d41d85" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Car_Rental_Billing_JavaScript.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/_mocha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/_mocha.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/he" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/he.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mocha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mocha.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assertion-error/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assertion-error/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assertion-error/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assertion-error/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assertion-error/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/brace-expansion/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/brace-expansion/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/brace-expansion/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/browser-stdout/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/browser-stdout/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/browser-stdout/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/browser-stdout/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/CODEOWNERS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/ReleaseNotes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/chai.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/karma.sauce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/assertion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/core/assertions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/interface/assert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/interface/expect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/interface/should.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addChainableMethod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addLengthGuard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addMethod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/compareByInspect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/expectTypes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/flag.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getActual.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getEnumerableProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getMessage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getOwnEnumerableProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getOwnEnumerablePropertySymbols.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/inspect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/isNaN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/isProxyEnabled.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/objDisplay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/overwriteChainableMethod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/overwriteMethod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/overwriteProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/proxify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/transferFlags.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/register-assert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/register-expect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/register-should.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/sauce.browsers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-error/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-error/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-error/check-error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-error/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-error/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/concat-map/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/concat-map/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/concat-map/README.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/concat-map/example/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/concat-map/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/concat-map/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/concat-map/test/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/.coveralls.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-eql/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-eql/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-eql/deep-eql.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-eql/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-eql/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/dist/diff.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/dist/diff.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/convert/dmp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/convert/xml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/diff/array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/diff/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/diff/character.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/diff/css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/diff/json.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/diff/line.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/diff/sentence.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/diff/word.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/patch/apply.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/patch/create.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/patch/merge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/patch/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/util/array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/util/distance-iterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/lib/util/params.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/release-notes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/diff/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/old.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/get-func-name/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/get-func-name/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/get-func-name/get-func-name.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/get-func-name/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/get-func-name/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/glob/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/glob/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/glob/changelog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/glob/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/glob/glob.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/glob/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/glob/sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/growl/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/growl/.tags" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/growl/.tags1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/growl/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/growl/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/growl/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/growl/lib/growl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/growl/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/growl/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/he/LICENSE-MIT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/he/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/he/bin/he" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/he/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/he/man/he.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/he/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/inflight/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/inflight/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/inflight/inflight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/inflight/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/inherits/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/inherits/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/inherits/inherits.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimatch/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimatch/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimatch/minimatch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimatch/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/example/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/readme.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/dash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/default_bool.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/dotted.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/long.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/parse_modified.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/short.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/minimist/test/whitespace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/bin/cmd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/bin/usage.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/examples/pow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/readme.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/chmod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/clobber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/mkdirp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/opts_fs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/opts_fs_sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/perm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/perm_sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/race.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/rel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/return.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/return_sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/root.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/umask.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/umask_sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/bin/_mocha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/bin/mocha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/bin/options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/browser-entry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/browser/growl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/browser/progress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/browser/tty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/context.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/hook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/bdd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/exports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/qunit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/tdd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/mocha.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/ms.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/pending.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/base.js.orig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/doc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/dot.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/json-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/json.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/json.js.orig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/landing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/markdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/nyan.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/progress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/tap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/xunit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/runnable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/runner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/suite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/lib/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/mocha.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/mocha.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mocha/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ms/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ms/license.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ms/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/once/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/once/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/once/once.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/once/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/path-is-absolute/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/path-is-absolute/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/path-is-absolute/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/pathval.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/type-detect/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/type-detect/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/type-detect/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/type-detect/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/type-detect/type-detect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/wrappy/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/wrappy/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/wrappy/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/wrappy/wrappy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Customer/Customer.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Customer/Customer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Rental/Rental.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Rental/Rental.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Vehicle/FourxFour.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Vehicle/FourxFour.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Vehicle/SUV.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Vehicle/SUV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Vehicle/Sedan.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Vehicle/Sedan.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Vehicle/Vehicle.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Vehicle/Vehicle.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -329,92 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Vehicle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/Vehicle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FourxFour.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/FourxFour.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sedan.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/Sedan.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Customer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Customer/Customer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RentalCalculator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="9" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constants.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Constants.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rental.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Rental/Rental.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BillingTests.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/BillingTests.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CharacterizationTest.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/CharacterizationTest.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -434,7 +48,14 @@
       <find>simswap</find>
       <find>simswapstepper:</find>
       <find>addRental</find>
+      <find>rental.</find>
+      <find>rewardPoints</find>
+      <find>var</find>
     </findStrings>
+    <replaceStrings>
+      <replace>this._rental.</replace>
+      <replace>let</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -453,17 +74,19 @@
         <option value="$PROJECT_DIR$/app/Models/Sedan.js" />
         <option value="$PROJECT_DIR$/app/Models/Vehicle/VehicleFactory.js" />
         <option value="$PROJECT_DIR$/test/CharacterizationTest.js" />
-        <option value="$PROJECT_DIR$/app/Models/Vehicle/SUV.js" />
-        <option value="$PROJECT_DIR$/app/Models/Vehicle/FourxFour.js" />
         <option value="$PROJECT_DIR$/app/Models/Customer.js" />
-        <option value="$PROJECT_DIR$/app/Models/Vehicle/Sedan.js" />
         <option value="$PROJECT_DIR$/test/BillingTests.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/INDEX.JS" />
-        <option value="$PROJECT_DIR$/app/Models/Customer/Customer.js" />
         <option value="$PROJECT_DIR$/app/Models/Customer/RentalCalculator.js" />
-        <option value="$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js" />
+        <option value="$PROJECT_DIR$/app/Models/Rental/Statement.js" />
         <option value="$PROJECT_DIR$/app/Models/Rental/Rental.js" />
+        <option value="$PROJECT_DIR$/app/Models/Customer/Customer.js" />
+        <option value="$PROJECT_DIR$/app/Models/Vehicle/SUV.js" />
+        <option value="$PROJECT_DIR$/app/Models/Vehicle/FourxFour.js" />
+        <option value="$PROJECT_DIR$/app/Models/Vehicle/Vehicle.js" />
+        <option value="$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js" />
+        <option value="$PROJECT_DIR$/app/Models/Vehicle/Sedan.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -475,6 +98,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -604,31 +230,59 @@
       <option name="presentableId" value="Default" />
       <updated>1527947015098</updated>
       <workItem from="1527947016548" duration="6671000" />
-      <workItem from="1528285128217" duration="2366000" />
+      <workItem from="1528285128217" duration="8182000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.02 at 16h 31m 40s.xml">
+    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.06 at 15h 23m 52s.xml">
+      <configuration name="The Statement should:.Match current behavior" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.06 at 15h 25m 05s.xml">
+      <configuration name="The Statement should:.Match current behavior" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.06 at 15h 25m 46s.xml">
+      <configuration name="The Statement should:.Match current behavior" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.06 at 15h 26m 41s.xml">
+      <configuration name="The Statement should:.Match current behavior" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.06 at 15h 32m 59s.xml">
+      <configuration name="The Statement should:.Match current behavior" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.06 at 15h 51m 11s.xml">
+      <configuration name="The Statement should:.Match current behavior" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.06 at 15h 53m 00s.xml">
+      <configuration name="The Statement should:.Match current behavior" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.06 at 15h 53m 16s.xml">
+      <configuration name="The Statement should:.Match current behavior" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.06 at 15h 53m 34s.xml">
+      <configuration name="The Statement should:.Match current behavior" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="The_Statement_should__Match_current_behavior - 2018.06.06 at 15h 57m 31s.xml">
       <configuration name="The Statement should:.Match current behavior" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9037000" />
+    <option name="totallyTimeSpent" value="14853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286517" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -648,7 +302,39 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/CharacterizationTest.js</url>
+          <line>32</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js</url>
+          <line>29</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/Models/Customer/Customer.js</url>
+          <line>45</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/Models/Vehicle/Sedan.js</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/Models/Vehicle/SUV.js</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="27" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -730,24 +416,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/SUV.js">
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/INDEX.JS" />
+    <entry file="file://$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="20">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/Sedan.js">
+    <entry file="file://$PROJECT_DIR$/app/Models/Rental/Rental.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="300">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/Vehicle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/FourxFour.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="100">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/Sedan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/SUV.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -758,54 +481,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/INDEX.JS" />
-    <entry file="file://$PROJECT_DIR$/app/Models/Constants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/CharacterizationTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="210">
           <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/Vehicle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Rental/Rental.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/Customer/Customer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        <state relative-caret-position="206">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        <state relative-caret-position="80">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>

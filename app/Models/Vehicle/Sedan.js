@@ -5,6 +5,13 @@ class Sedan extends Vehicle{
         super(makeAndModel);
         this._rateCode = rateCodes.SEDAN;
     }
+    calculateRentalFees(options){
+        let t_amount = options.initialAmount + 100 * options.daysRented;
+        if (options.mileage > options.daysRented * 50) {
+            t_amount = t_amount + (options.mileage - options.daysRented * 50) * 2;
+        }
+        return t_amount;
+    }
 }
 
 module.exports = Sedan;
