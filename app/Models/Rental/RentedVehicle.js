@@ -9,6 +9,7 @@ class RentedVehicle extends Vehicle{
         super();
         this._vehicle = vehicle;
         this._rentalAmount = 0.0;
+        delete this._rateCode;
     }
 
     /**
@@ -29,8 +30,8 @@ class RentedVehicle extends Vehicle{
      */
     toPlainTextFormat(options){
         let vehicleName = this._vehicle.getMakeAndModel();
-        let amount = this._rentalAmount;
-        return `${vehicleName}: LE ${amount}`;
+        let amount = this._rentalAmount.toFixed(2);
+        return `"${vehicleName}"\tLE ${amount}`;
     }
 
     /**

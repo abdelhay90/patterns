@@ -23,7 +23,7 @@ class VehicleFactory {
             case rateCodes.FOURxFOUR:
                 return new FourxFour(makeAndModel);
             default:
-                return new Vehicle("UNKNOWN");
+                return new Vehicle(makeAndModel ? makeAndModel : "UNKNOWN");
         }
     }
 }
