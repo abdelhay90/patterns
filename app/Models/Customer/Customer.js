@@ -1,7 +1,10 @@
 const rateCodes = require("../Constants");
-const Rental = require("../Rental/Rental.js");
 const RentalCalculator = require("../Rental/RentalCalculator");
 
+/**
+ * customer model used to have the rental contacts and rate the customer and
+ * also calculate the total fees of all rental contact assigned
+ */
 class Customer {
 
     constructor(name) {
@@ -9,14 +12,26 @@ class Customer {
         this._rentals = [];
     }
 
+    /**
+     * add rental contract to current customer
+     * @param Rental contract
+     */
     addRental(arg) {
         this._rentals.push(arg)
     }
 
+    /**
+     * get customer name
+     * @returns {string}
+     */
     getName() {
         return this._name;
     }
 
+    /**
+     * get customer final statement after calculating the rental contracts
+     * @returns {string}
+     */
     statement() {
 
         let totalAmount = 0;
@@ -55,5 +70,5 @@ class Customer {
     }
 }
 
-module.exports = Customer
+module.exports = Customer;
 
