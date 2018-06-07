@@ -36,7 +36,7 @@ class Rental {
 
     /**
      * returns late fees if the car rented returned late
-     * @returns number
+     * @returns boolean
      */
     isLate() {
         return this._lateFee;
