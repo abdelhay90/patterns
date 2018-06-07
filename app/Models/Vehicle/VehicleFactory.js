@@ -22,6 +22,8 @@ class VehicleFactory {
                 return new Sedan(makeAndModel);
             case rateCodes.FOURxFOUR:
                 return new FourxFour(makeAndModel);
+            default:
+                return new Vehicle("UNKNOWN");
         }
     }
 }

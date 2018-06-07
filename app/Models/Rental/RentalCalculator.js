@@ -1,4 +1,3 @@
-
 const rateCodes = require('../Constants');
 
 /**
@@ -28,7 +27,9 @@ class RentalCalculator {
         total = this._applyMileAgeRule(total);
 
         //apply late rule
-        total = this._applyLateRule(total)
+        total = this._applyLateRule(total);
+
+        this._rental.assignRentalFees(total);
 
         return total;
     }

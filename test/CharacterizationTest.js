@@ -5,15 +5,10 @@ const VehicleFactory = require('../app/Models/Vehicle/VehicleFactory');
 const rateCodes = require('../app/Models/Constants');
 describe('The Statement should:', () => {
     it('Match current behavior', () => {
-        //let vehicleFactory = new VehicleFactory();
         let blueHonda = VehicleFactory.getVehicle("Blue Honda 2008", rateCodes.SEDAN);
-        //new Vehicle("Blue Honda 2008", Vehicle.SEDAN);
         let greyJeep = VehicleFactory.getVehicle("Grey Jeep 2013", rateCodes.FOURxFOUR);
-        //new Vehicle("Grey Jeep 2013", Vehicle.FOURxFOUR);
         let RedSunny = VehicleFactory.getVehicle("Red Sunny 2014", rateCodes.SEDAN);
-        //new Vehicle("Red Sunny 2014", Vehicle.SEDAN);
         let BlueBMW = VehicleFactory.getVehicle("Blue X3 2017", rateCodes.SUV);
-        //new Vehicle("Blue X3 2017", Vehicle.SUV);
 
         let hondaRental = new Rental(blueHonda, 431, 4, false);
         let jeepRental = new Rental(greyJeep, 744, 4, false);

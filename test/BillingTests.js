@@ -1,8 +1,11 @@
 const assert = require('chai').assert;
+const Rental = require("../app/Models/Rental/Rental.js");
+const Customer = require("../app/Models/Customer/Customer.js");
 const VehicleFactory = require('../app/Models/Vehicle/VehicleFactory');
 const rateCodes = require('../app/Models/Constants');
 const JSONFormatter = require("../app/Models/Formatter/JSONFormatter");
 const PlainTextFormatter = require("../app/Models/Formatter/PlainTextFormatter");
+const Formatter = require("../app/Models/Formatter/Formatter");
 /////////////////////////////////////////////////////////////
 /////////// This is where your tests should go //////////////
 /////////////////////////////////////////////////////////////
@@ -19,45 +22,42 @@ describe('The JSON Formatter', () => {
         let blueHonda = VehicleFactory.getVehicle("Blue Honda 2008", rateCodes.SEDAN);
         assert.equal(blueHonda.toJSONFormat({indentation: '\t'}), '{\n\t"_makeAndModel": "Blue Honda 2008",\n\t"_rateCode": 0\n}');
     });
+
+    it('should format rented vehicle', function () {
+        let blueHonda = VehicleFactory.getVehicle("Blue Honda 2008", rateCodes.SEDAN);
+        let truck = VehicleFactory.getVehicle("Truck");
+        let blueSUV = VehicleFactory.getVehicle("Blue SUV", rateCodes.SUV);
+        let blueFOURxFOUR = VehicleFactory.getVehicle("Blue FOURxFOUR", rateCodes.FOURxFOUR);
+        //let blueHonda = VehicleFactory.getVehicle("Blue Honda 2008", rateCodes.SEDAN);
+
+        let hondaRental = new Rental(blueHonda, 431, 4, false);
+        let truckRental = new Rental(truck, 431, 4, false);
+        let SUVRental = new Rental(blueSUV, 201201, 6, false);
+        let FOURxFOURSUVRental = new Rental(blueFOURxFOUR, 250, 15, false);
+
+        let virginGates = new Customer("Virgin Gates");
+        virginGates.addRental(hondaRental);
+        virginGates.addRental(truckRental);
+        virginGates.addRental(SUVRental);
+        virginGates.addRental(FOURxFOURSUVRental);
+        let statement = virginGates.statement();
+
+        assert.equal(hondaRental.getRentedVehicle().toJSONFormat({indentation: '\t'}), '{\n\t"_makeAndModel": "Blue Honda 2008",\n\t"_rateCode": 0,\n\t"_rentalAmount": 912\n}');
+
+        assert.equal(hondaRental.getRentedVehicle().toPlainTextFormat({}), "Blue Honda 2008: LE 912");
+        assert.equal(hondaRental.getRentedVehicle().getRentalFees(), 912);
+    });
 });
 
-xdescribe('The Plain Text Formatter', function () {
+
+describe('The Plain Text Formatter', function () {
     it('should match format plain text', () => {
         let plainTextFormatter = new PlainTextFormatter();
-        let formatted = plainTextFormatter.format({name: 'ahmed', job: "developer"}, {
-            fields: [
-                {
-                    name: 'name',
-                    type: fieldsTypes.NORMAL,
-                    template: '{name} is '
-                },
-                {
-                    name: 'job',
-                    type: fieldsTypes.NORMAL,
-                    template: '{job}.\n'
-                }
-            ]
-        });
-        assert.equal(formatted, 'ahmed is developer.\n');
-    });
+        let formatted = plainTextFormatter.format({name: 'ahmed', job: "developer"}, {});
+        assert.equal(formatted, '');
 
-    it('should match format plain text for vehicle', () => {
-        let blueHonda = VehicleFactory.getVehicle("Blue Honda 2008", rateCodes.SEDAN);
-        let plainTextFormatter = new PlainTextFormatter();
-        let formatted = plainTextFormatter.format(blueHonda, {
-            fields: [
-                {
-                    name: '_makeAndModel',
-                    type: fieldsTypes.NORMAL,
-                    template: '{_makeAndModel} is '
-                },
-                {
-                    name: '_rateCode',
-                    type: fieldsTypes.NORMAL,
-                    template: '{_rateCode}.\n'
-                }
-            ]
-        });
-        assert.equal(formatted, 'Blue Honda 2008 is 0.\n');
+        let dFormatter = new Formatter();
+        let dformatted = dFormatter.format({name: 'ahmed', job: "developer"}, {});
+        assert.equal(dformatted, '');
     });
 });

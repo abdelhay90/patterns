@@ -7,6 +7,7 @@ class Vehicle {
 
     constructor(makeAndModel) {
         this._makeAndModel = makeAndModel;
+        this._rateCode = -1;
     }
 
     /**
@@ -15,14 +16,6 @@ class Vehicle {
      */
     getRateCode() {
         return this._rateCode;
-    }
-
-    /**
-     * set the rate code of this car
-     * @param arg
-     */
-    setRateCode(arg) {
-        this._rateCode = arg;
     }
 
     /**
@@ -53,4 +46,3 @@ class Vehicle {
 }
 
 module.exports = Vehicle;
-
