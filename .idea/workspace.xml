@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d4cafb7-cdde-4f45-8b06-3b01c1d41d85" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Models/Formatter/Constants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Models/Customer/Customer.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Customer/Customer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Rental/RentedVehicle.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Rental/RentedVehicle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Vehicle/VehicleFactory.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Vehicle/VehicleFactory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/BillingTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/BillingTests.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,20 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Vehicle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/Vehicle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Customer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Models/Customer/Customer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="90" column="65" selection-start-line="90" selection-start-column="15" selection-end-line="90" selection-end-column="65" />
+            <state relative-caret-position="280">
+              <caret line="89" column="38" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -61,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SUV.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/SUV.js">
+      <file leaf-file-name="PlainTextFormatter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Formatter/PlainTextFormatter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="20">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -73,17 +61,26 @@
       <file leaf-file-name="JSONFormatter.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="133">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BillingTests.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BillingTests.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/BillingTests.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="135" column="47" selection-start-line="135" selection-start-column="47" selection-end-line="135" selection-end-column="47" />
+            <state relative-caret-position="239">
+              <caret line="143" column="22" lean-forward="true" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -97,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="Formatter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Formatter/Formatter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="160">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -171,8 +168,6 @@
         <option value="$PROJECT_DIR$/app/Models/Constants.js" />
         <option value="$PROJECT_DIR$/app/Models/Vehicle/FourxFour.js" />
         <option value="$PROJECT_DIR$/app/Models/Formatter/PlainTextFormatter.js" />
-        <option value="$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js" />
         <option value="$PROJECT_DIR$/app/Models/Rental/Rental.js" />
         <option value="$PROJECT_DIR$/test/CharacterizationTest.js" />
@@ -182,8 +177,10 @@
         <option value="$PROJECT_DIR$/app/Models/Vehicle/VehicleFactory.js" />
         <option value="$PROJECT_DIR$/app/Models/Rental/RentedVehicle.js" />
         <option value="$PROJECT_DIR$/app/Models/Formatter/Constants.js" />
+        <option value="$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js" />
         <option value="$PROJECT_DIR$/app/Models/Customer/Customer.js" />
         <option value="$PROJECT_DIR$/test/BillingTests.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -226,40 +223,6 @@
               <item name="Car_Rental_Billing_JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="Car_Rental_Billing_JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Car_Rental_Billing_JavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Car_Rental_Billing_JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Car_Rental_Billing_JavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Car_Rental_Billing_JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-              <item name="Customer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Car_Rental_Billing_JavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Car_Rental_Billing_JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-              <item name="Formatter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Car_Rental_Billing_JavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Car_Rental_Billing_JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-              <item name="Rental" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Car_Rental_Billing_JavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Car_Rental_Billing_JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-              <item name="Vehicle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Car_Rental_Billing_JavaScript" type="b2602c69:ProjectViewProjectNode" />
@@ -354,7 +317,7 @@
       <updated>1527947015098</updated>
       <workItem from="1527947016548" duration="6671000" />
       <workItem from="1528285128217" duration="12756000" />
-      <workItem from="1528359571495" duration="15227000" />
+      <workItem from="1528359571495" duration="17434000" />
     </task>
     <servers />
   </component>
@@ -391,7 +354,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34654000" />
+    <option name="totallyTimeSpent" value="36861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -402,8 +365,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286517" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.40870786" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.40870786" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection Results" weight="0.3286517" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -623,24 +586,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/Sedan.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Formatter/PlainTextFormatter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -665,13 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Formatter/Formatter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/Rental/RentalCalculator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
@@ -690,13 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/VehicleFactory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -721,13 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/Rental/RentedVehicle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -735,17 +663,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Vehicle/VehicleFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Formatter/PlainTextFormatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Formatter/Formatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/Customer/Customer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="90" column="65" selection-start-line="90" selection-start-column="15" selection-end-line="90" selection-end-column="65" />
+        <state relative-caret-position="280">
+          <caret line="89" column="38" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Formatter/JSONFormatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/BillingTests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="135" column="47" selection-start-line="135" selection-start-column="47" selection-end-line="135" selection-end-column="47" />
+        <state relative-caret-position="239">
+          <caret line="143" column="22" lean-forward="true" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>

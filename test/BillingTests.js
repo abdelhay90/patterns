@@ -14,7 +14,7 @@ const formats = require("../app/Models/Formatter/Constants");
 describe('The JSON Formatter', () => {
     it('should match format with indentaion [4]', () => {
         let jsonFormatter = new JSONFormatter();
-        assert.equal(jsonFormatter.format({name: 'ahmed', job: "developer"}, {indentation: 4}), `{
+        assert.equal(jsonFormatter.format({name: 'ahmed', job: "developer"}, {jsonStr: true, indentation: 4}), `{
     "name": "ahmed",
     "job": "developer"
 }`);
@@ -37,7 +37,10 @@ describe('The Plain Text Formatter', function () {
 describe('the customer', function () {
     it('should match vehicle format with indentation [\\t]', () => {
         let blueHonda = VehicleFactory.getVehicle("Blue Honda 2008", rateCodes.SEDAN);
-        assert.equal(blueHonda.toJSONFormat({indentation: '\t'}), '{\n\t"_makeAndModel": "Blue Honda 2008",\n\t"_rateCode": 0\n}');
+        assert.equal(blueHonda.toJSONFormat({
+            jsonStr: true,
+            indentation: '\t'
+        }), '{\n\t"_makeAndModel": "Blue Honda 2008",\n\t"_rateCode": 0\n}');
     });
 
     it('should format rented vehicle', function () {
@@ -57,7 +60,10 @@ describe('the customer', function () {
         let statement = virginGates.statement();
         /*let jsonFormatter = new JSONFormatter();
         console.log(jsonFormatter.format(virginGates, {indentation: 4}));*/
-        assert.equal(hondaRental.getRentedVehicle().toJSONFormat({indentation: '\t'}), '{\n\t"_makeAndModel": "Blue Honda 2008",\n\t"_rateCode": 0,\n\t"_rentalAmount": 912\n}');
+        assert.equal(hondaRental.getRentedVehicle().toJSONFormat({
+            jsonStr: true,
+            indentation: '\t'
+        }), '{\n\t"_makeAndModel": "Blue Honda 2008",\n\t"_rateCode": 0,\n\t"_rentalAmount": 912\n}');
         assert.equal(hondaRental.getRentedVehicle().toPlainTextFormat({}), "\"Blue Honda 2008\"\tLE 912.00");
         assert.equal(hondaRental.getRentedVehicle().getRentalFees(), 912);
     });
@@ -134,16 +140,9 @@ describe('the customer', function () {
 
         expect(
             sharmDreams.statement(formats.JSON)
-        ).equal(
-            new JSONFormatter().format(mockedJSON, {indentation: 4})
-        );
-
-        expect(
-            JSON.parse(sharmDreams.statement(formats.JSON))
         ).to.deep.equal(
-            JSON.parse(new JSONFormatter().format(mockedJSON, {indentation: 4}))
+            mockedJSON
         );
-
     });
 });
 

@@ -11,7 +11,8 @@ class JSONFormatter extends Formatter {
      * @returns {string}
      */
     format(data, options) {
-        return JSON.stringify(data, null, options.indentation);
+        return options.jsonStr ?
+            JSON.stringify(data, null, options.indentation) : JSON.parse(JSON.stringify(data));
     }
 }
 

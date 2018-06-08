@@ -83,12 +83,11 @@ class Customer {
     /**
      * generate customer state in plain text format
      * @param rewardPoints
-     * @returns {{}}
+     * @returns {object}
      * @private
      */
     _getJSONFormat(rewardPoints) {
-        //let statement = _.cloneDeep(this);
-        return new JSONFormatter().format(this, {indentation: 4});
+        return new JSONFormatter().format(this, {});
     }
 
     /**
